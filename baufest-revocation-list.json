@@ -1,0 +1,7 @@
+{
+    "@context": "https://w3id.org/openbadges/v2",
+    "id": "https://raw.githubusercontent.com/al3gom3zr/bitcerts/master/baufest-revocation-list.json",
+    "type": "RevocationList",
+    "issuer": "https://raw.githubusercontent.com/al3gom3zr/bitcerts/master/baufest-issuer.json",
+    "revokedAssertions": []
+}
